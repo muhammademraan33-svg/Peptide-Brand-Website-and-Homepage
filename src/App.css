@@ -1,0 +1,7 @@
+.homepage-gradient {
+  background:
+    radial-gradient(circle at top left, rgba(56, 189, 248, 0.18), transparent 55%),
+    radial-gradient(circle at top right, rgba(129, 140, 248, 0.24), transparent 55%),
+    radial-gradient(circle at bottom, rgba(15, 23, 42, 1), rgba(15, 23, 42, 1));
+}
+
